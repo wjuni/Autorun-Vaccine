@@ -1,0 +1,26 @@
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.exe.config
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.Form1.resources
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.Resources.resources
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.vbproj.GenerateResource.Cache
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.exe
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.pdb
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.xml
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.exe
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.xml
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.pdb
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.vbprojResolveAssemblyReference.cache
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.AboutBox1.resources
+C:\Users\Wjuni\Documents\임휘준\내 프로그램\Projects\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.FrmMonitor.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.exe.config
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.exe
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.xml
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.pdb
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.exe
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.pdb
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Debug\AutorunVaccine.xml
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.vbprojResolveAssemblyReference.cache
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.AboutBox1.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.Form1.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.FrmMonitor.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.Resources.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Debug\AutorunVaccine.vbproj.GenerateResource.Cache

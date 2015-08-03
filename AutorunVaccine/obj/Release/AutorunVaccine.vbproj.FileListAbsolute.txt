@@ -1,0 +1,12 @@
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Release\AutorunVaccine.exe.config
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Release\AutorunVaccine.exe
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Release\AutorunVaccine.pdb
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\bin\Release\AutorunVaccine.xml
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.AboutBox1.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.Form1.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.FrmMonitor.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.Resources.resources
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.vbproj.GenerateResource.Cache
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.exe
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.xml
+C:\Users\Wjuni\Desktop\AutorunVaccine\AutorunVaccine\obj\Release\AutorunVaccine.pdb
